@@ -12,7 +12,7 @@ Sponsor prizes are set up as Gitcoin bounties in [this very repo](https://github
 
 ### 1) Make sure you're eligible to participate!
 
-While participating at ETHGlobal events like ETH San Francisco is essentially as easy as contributing to an open source project, you do have to be physically present. Registration will take place on December 7th at the location on the ethsingapore.co website. 
+While participating at ETHGlobal events like ETHSingapore is essentially as easy as contributing to an open source project, you do have to be physically present. Registration will take place on December 7th at the location on the ethsingapore.co website. 
 
 ### 2) Before the hackathon
 
@@ -28,7 +28,7 @@ And please don't forget to sync your Ethereum nodes ahead of the event :)
 
 #### 2.3) Check out the sponsor prizes available
 
-Some of ETHGlobal’s sponsors have their own prizes. Note that ETHSanFrancisco has no influence on either the challenge or the judging, this is entirely up to the sponsors. You can find all the prize awards, you guessed it, [here](https://github.com/ethglobal/ethsingapore-bounties/issues).
+Some of ETHGlobal’s sponsors have their own prizes. Note that ETHSingapore has no influence on either the challenge or the judging, this is entirely up to the sponsors. You can find all the prize awards, you guessed it, [here](https://github.com/ethglobal/ethsingapore-bounties/issues).
 
 Please note that **you can submit your work to multiple prizes**, they are not exclusive! So for example you can submit your work to the open track bounty and a sponsor specific prize, just make sure to submit it everywhere you want to participate.
 
