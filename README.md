@@ -12,7 +12,7 @@ Sponsor prizes are set up as Gitcoin bounties in [this very repo](https://github
 
 ### 1) Make sure you're eligible to participate!
 
-While participating at ETHGlobal events like ETHSingapore is essentially as easy as contributing to an open source project, you do have to be physically present. Registration will take place on December 7th at [thebridge](https://www.google.com/maps/place/The+Metro+@+thebridge/@1.2916995,103.7845961,17z/data=!4m5!3m4!1s0x31da1a52fd2908d3:0x6ed460d67d33755c!8m2!3d1.2911997!4d103.7841236)
+While participating at ETHGlobal events like ETHSingapore is essentially as easy as contributing to an open source project, you do have to be physically present. Registration will take place on December 7th at [thebridge](https://www.google.com/maps/place/The+Metro+@+thebridge/@1.2916995,103.7845961,17z/data=!4m5!3m4!1s0x31da1a52fd2908d3:0x6ed460d67d33755c!8m2!3d1.2911997!4d103.7841236), a co-working space in Singapore.
 
 ### 2) Before the hackathon
 
